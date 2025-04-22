@@ -1,0 +1,5 @@
+random_state,n_features,best_params,accuracy
+42,9,"{'estimator__criterion': 'entropy', 'estimator__max_depth': 7, 'estimator__min_samples_split': 2, 'n_estimators': 150}",0.8229166666666666
+42,10,"{'estimator__criterion': 'gini', 'estimator__max_depth': 7, 'estimator__min_samples_split': 4, 'n_estimators': 250}",0.8333333333333334
+42,11,"{'estimator__criterion': 'entropy', 'estimator__max_depth': 7, 'estimator__min_samples_split': 4, 'n_estimators': 250}",0.8229166666666666
+42,12,"{'estimator__criterion': 'entropy', 'estimator__max_depth': 7, 'estimator__min_samples_split': 2, 'n_estimators': 250}",0.84375

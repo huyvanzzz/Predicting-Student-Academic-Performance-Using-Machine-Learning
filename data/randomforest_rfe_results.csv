@@ -1,0 +1,5 @@
+n_features,best_params,accuracy
+9,"{'criterion': 'entropy', 'max_depth': 7, 'min_samples_split': 4, 'n_estimators': 250}",0.84375
+10,"{'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}",0.8020833333333334
+11,"{'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 4, 'n_estimators': 250}",0.8333333333333334
+12,"{'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'n_estimators': 250}",0.8229166666666666
