@@ -1,0 +1,2 @@
+best_params,accuracy
+"{'adaboost__estimator__criterion': 'entropy', 'adaboost__estimator__max_depth': 5, 'adaboost__estimator__min_samples_split': 2, 'adaboost__n_estimators': 200, 'rfe__n_features_to_select': 10}",0.9583333333333334

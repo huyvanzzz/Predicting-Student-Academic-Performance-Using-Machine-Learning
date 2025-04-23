@@ -1,0 +1,2 @@
+best_params,validation_accuracy,test_accuracy
+"{'mlp__activation': 'tanh', 'mlp__hidden_layer_sizes': (150,), 'mlp__learning_rate_init': 0.01, 'rfe__n_features_to_select': 10}",0.7654520917678812,0.8020833333333334

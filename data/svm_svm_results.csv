@@ -1,5 +1,0 @@
-n_features,best_params,accuracy
-9,"{'C': 5, 'gamma': 'scale', 'kernel': 'rbf'}",0.7916666666666666
-10,"{'C': 0.5, 'gamma': 'scale', 'kernel': 'linear'}",0.7395833333333334
-11,"{'C': 5, 'gamma': 0.01, 'kernel': 'rbf'}",0.6875
-12,"{'C': 0.5, 'gamma': 'scale', 'kernel': 'linear'}",0.7604166666666666

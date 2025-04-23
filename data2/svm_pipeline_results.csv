@@ -1,0 +1,2 @@
+best_params,validation_accuracy,test_accuracy
+"{'rfe__n_features_to_select': 7, 'svm__C': 1, 'svm__gamma': 0.01, 'svm__kernel': 'sigmoid'}",0.8827260458839407,0.9375

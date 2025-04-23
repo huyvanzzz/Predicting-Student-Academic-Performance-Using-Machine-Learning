@@ -1,0 +1,2 @@
+best_params,validation_accuracy,test_accuracy
+"{'mlp__activation': 'relu', 'mlp__hidden_layer_sizes': (150,), 'mlp__learning_rate_init': 0.01, 'rfe__n_features_to_select': 10}",0.7682186234817814,0.8020833333333334

@@ -1,0 +1,2 @@
+best_params,validation_accuracy,test_accuracy
+"{'dt__criterion': 'entropy', 'dt__max_depth': 8, 'dt__min_samples_split': 6, 'rfe__n_features_to_select': 9}",0.6956140350877194,0.7604166666666666

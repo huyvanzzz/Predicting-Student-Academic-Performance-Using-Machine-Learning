@@ -1,0 +1,2 @@
+best_params,validation_accuracy,test_accuracy
+"{'ann__activation': 'identity', 'ann__hidden_layer_sizes': (50,), 'ann__learning_rate_init': 0.01, 'rfe__n_features_to_select': 10}",0.9219973009446694,0.9479166666666666
