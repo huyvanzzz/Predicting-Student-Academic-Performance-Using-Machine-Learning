@@ -1,2 +1,2 @@
 best_params,validation_accuracy,test_accuracy
-"{'rfe__n_features_to_select': 10, 'svm__C': 0.5, 'svm__gamma': 10, 'svm__kernel': 'linear'}",0.7342780026990553,0.7604166666666666
+"{'rfe__n_features_to_select': 9, 'svm__C': 5, 'svm__gamma': 0.1, 'svm__kernel': 'rbf'}",0.7291497975708502,0.71875
